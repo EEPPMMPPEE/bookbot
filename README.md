@@ -8,4 +8,4 @@
   </a>
 </p>
 
-BookBot is (not) my first git project! (Not really). Reports on the text file in the "Books" folder
+BookBot is (not) my first git project! (Not really). Create report about text files in the "Books" folder.
